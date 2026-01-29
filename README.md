@@ -81,6 +81,8 @@ Check what a user has unlocked and their progress.
       }
     }
     ```
+N/B: Check for seeded users in the database.
+
 
 ## How It Works (My Logic)
 
