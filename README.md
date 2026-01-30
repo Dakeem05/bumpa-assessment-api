@@ -2,8 +2,8 @@
 
 Hello team,
 
-First, I want to apologize for pushing this in one commit. I actaully built it all out in one sitting.
-I ideally commit after completing assigned tasks (or feature as the case maybe). But in this case the task was the entire assesment so I built it all in one go.
+First, I want to apologize for pushing this in one commit. I actually built it all out in one sitting.
+I ideally commit after completing assigned tasks (or feature as the case maybe). But in this case the task was the entire assessment so I built it all in one go.
 
 At first when I read the instructions, I was confused about the whole thing, but after digging deeper used some ai models to understand the requirements better. I got the idea and built the whole thing myself.
 
