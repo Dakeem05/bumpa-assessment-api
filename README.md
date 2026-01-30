@@ -22,6 +22,7 @@ Here's how to get it running on your local machine.
 - PHP 8.2+
 - Composer
 - PostgreSQL (or your preferred DB)
+- Laravel Herd (or your preferred local server)
 
 ### Installation
 
@@ -42,7 +43,7 @@ Here's how to get it running on your local machine.
     php artisan migrate --seed
     ```
 
-5.  **Serve the Application**:
+5.  **Serve the Application (or use Valet/Larvel Herd)**:
     ```bash
     php artisan serve
     ```
